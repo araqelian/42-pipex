@@ -15,9 +15,7 @@
 int	main(int argc, char **argv, char **env)
 {
 	t_data	info;
-	int		i;
 
-	i = 0;
 	if (argc != 5)
 	{
 		write(2, "Error: try this ./pipex file1 cmd1 cmd2 file2\n", 46);
