@@ -57,3 +57,11 @@ relink.<br>
 <li>If &nbsp;you &nbsp;have &nbsp;any &nbsp;doubt, &nbsp;handle &nbsp;the &nbsp;errors&nbsp; like &nbsp;the&nbsp; shell &nbsp;command:<br>
 < file1 &nbsp;cmd1&nbsp; | &nbsp;cmd2&nbsp; > &nbsp;file2
 </ul>
+
+<br><br>
+
+> [!NOTE]  
+> Because of 42 School norm requirements:
+> * Each function can't have more than 25 lines of code.
+> * All variables are declared and aligned at the top of each function.
+> * Project should be created just with allowed functions otherwise it's cheating.
